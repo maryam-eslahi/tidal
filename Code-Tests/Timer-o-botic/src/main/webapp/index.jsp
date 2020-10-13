@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> Welcome to Comment API Center</h2>
+<h2> Welcome to Tidal :)</h2>
 </body>
 </html>
