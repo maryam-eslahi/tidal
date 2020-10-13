@@ -1,6 +1,5 @@
 # Title
-
-Tidal Code Test Number2
+Measure-o-matic
 
 ## About
 Java Program that gets inputs in a line-seprated form and return the longest string line.
